@@ -1,4 +1,4 @@
-# Hi, I'm Vignesh T 👋
+# Hi, I'm Vignesh Thangarasu 👋
 
 ### Full Stack Developer | Java Developer | Problem Solver
 
@@ -34,14 +34,14 @@ I'm a Computer Science and Engineering student passionate about building practic
 
 ## 🚀 Featured Projects
 
-### 1. LeetFight
-A coding platform project focused on solving programming challenges and improving problem-solving skills.
+### 1. [LeetFight](https://leetfight-1.onrender.com/)
+A competitive coding and tracking platform designed for developers and students to solve programming challenges, benchmark performance, and sharpen problem-solving skills.
 
-### 2. MediGuide
-An AI-powered prescription understanding and medication assistant designed to make healthcare information more accessible.
+### 2. [Personal Portfolio](https://react-portfolio-nu-eosin.vercel.app/)
+A modern, responsive portfolio web application showcasing full-stack projects, real-time stats, and technical skill sets with an interactive and polished UI.
 
-### 3. Bluetooth Central Hub
-A desktop application concept for managing multiple Bluetooth audio devices with individual volume controls and sound settings.
+### 3. [Interactive Sandbox](https://sandbox-delta.vercel.app/)
+An experimental web sandbox and UI playground built for prototyping frontend components, testing reactive layouts, and experimenting with modern design ideas.
 
 ---
 
@@ -50,14 +50,3 @@ A desktop application concept for managing multiple Bluetooth audio devices with
 - **GitHub:** [@joyviky](https://github.com/joyviky)
 - **LinkedIn:** [Vignesh T](https://www.linkedin.com/in/vignesh-t-652742412/)
 - **LeetCode:** [Joy_boy485](https://leetcode.com/u/Joy_boy485/)
-- **Medium:** [vignesh4485849](https://medium.com/@vignesh4485849)
-
----
-
-### 💡 My Philosophy
-
-"One thing, do it completely; otherwise, don't do it."
-
-I believe in continuous learning, consistent improvement, and building things that solve real-world problems.
-
-⭐ Thanks for visiting my profile!
