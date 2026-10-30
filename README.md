@@ -1,6 +1,6 @@
 # Hi, I'm Vignesh T 👋
 
-### Aspiring Full Stack Developer | Java Developer | Problem Solver
+### Full Stack Developer | Java Developer | Problem Solver
 
 I'm a Computer Science and Engineering student passionate about building practical applications and exploring new technologies.
 
@@ -20,16 +20,8 @@ I'm a Computer Science and Engineering student passionate about building practic
 - React.js
 - Tailwind CSS
 
-**Backend**
+**Programming Language**
 - Java
-- Spring Boot
-- Node.js, Express.js
-- REST API Development
-
-**Database**
-- MySQL
-- PostgreSQL
-- MongoDB
 
 **Tools & Platforms**
 - Git & GitHub
