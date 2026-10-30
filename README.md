@@ -45,14 +45,6 @@ A desktop application concept for managing multiple Bluetooth audio devices with
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joyviky&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joyviky&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 
 - **GitHub:** [@joyviky](https://github.com/joyviky)
